@@ -5,5 +5,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gorkenvm&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gorkenvm&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show=prs_merged)
 ### 🔝 Top Contributed Repo
-	@@ -18,14 +28,4 @@ I am highly motivated for Data Science, Machine Learning, Big Data and Deep Lear
+@@ -18,14 +28,4 @@ I am highly motivated for Data Science, Machine Learning, Big Data and Deep Learning
 [![](https://visitcount.itsvg.in/api?id=gorkenvm&icon=0&color=12)](https://visitcount.itsvg.in)
