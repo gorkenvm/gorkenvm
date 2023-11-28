@@ -9,7 +9,6 @@ I am highly motivated for Data Science, Machine Learning, Big Data and Deep Lear
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gorkenvm&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gorkenvm&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gorkenvm&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show=prs_merged)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gorkenvm&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
