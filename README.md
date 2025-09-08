@@ -70,8 +70,15 @@ Focused on **Generative AI & LLMs** — building real-world **RAG** pipelines, *
 ---
 
 ## 📫 Contact
-- Email: **gorkenvm@gmail.com**  
-- LinkedIn: **/veysel-murat-gorken**
+<a href="https://linkedin.com/in/veysel-murat-gorken">
+  <img src="https://img.shields.io/badge/LinkedIn-veysel--murat--gorken-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>  
+
+<a href="mailto:gorkenvm@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gorkenvm%40gmail.com-informational?style=flat" />
+</a>
+
+
 
 <sub>Fun fact: I’m into motorbikes, traveling, and macroeconomics.</sub>
 
